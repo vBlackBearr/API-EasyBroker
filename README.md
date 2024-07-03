@@ -20,8 +20,15 @@
         pip install -r requirements.txt
     ```
 
-## Uso
+## Uso (debe de imprimir los titulos de todas las propiedades)
 
     ```bash
-        python main.py
+        python easy_broker_api.py
+    ```
+
+
+## Pruebas unitarias (podra ver en el archivo test_easy_broker_api.py las 3 diferentes que se hicieron)
+
+    ```bash
+        python -m unittest test_easy_broker_api.py
     ```
