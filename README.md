@@ -29,6 +29,6 @@
 
 ## Pruebas unitarias (podra ver en el archivo test_easy_broker_api.py las 3 diferentes que se hicieron)
 
-    ```bash
+    
     python -m unittest test_easy_broker_api.py
-    ```
+    
