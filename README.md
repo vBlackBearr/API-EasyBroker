@@ -17,18 +17,18 @@
 2. Instala las dependencias:
 
     ```bash
-        pip install -r requirements.txt
+    pip install -r requirements.txt
     ```
 
 ## Uso (debe de imprimir los titulos de todas las propiedades)
 
     ```bash
-        python easy_broker_api.py
+    python easy_broker_api.py
     ```
 
 
 ## Pruebas unitarias (podra ver en el archivo test_easy_broker_api.py las 3 diferentes que se hicieron)
 
     ```bash
-        python -m unittest test_easy_broker_api.py
+    python -m unittest test_easy_broker_api.py
     ```
